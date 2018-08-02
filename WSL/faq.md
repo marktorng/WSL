@@ -97,14 +97,14 @@ Now in WSL you can access the Windows directory as `/home/<Linux User>/Projects`
 ### Are files in the Linux drive different from the mounted Windows drive?
 
 1. Files under the Linux root (i.e. `/`) are controlled by the subsystem.  This allows for Linux specific behavior including but is not limited to:
-  * Files which contain invalid Windows filename characters
-  * Symlinks created for non-admin users
-  * Changing file attributes through chmod and chown
-  * Support case sensitivity
+   * Files which contain invalid Windows filename characters
+   * Symlinks created for non-admin users
+   * Changing file attributes through chmod and chown
+   * Support case sensitivity
 
 2. Files in mounted drives are controlled by Windows and have the following behaviors:
-  * Support case sensitivity
-  * All permissions are set to best reflect the Windows permissions
+   * Support case sensitivity
+   * All permissions are set to best reflect the Windows permissions
 
 ### Why are there so many errors when I run apt-get upgrade?
 Some packages use features that we haven't implemented yet. `udev`, for example, isn't supported yet and causes several `apt-get upgrade` errors.

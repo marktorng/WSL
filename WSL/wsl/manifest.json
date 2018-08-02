@@ -1,0 +1,617 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/target_repo/WSL",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "curl-distro.png",
+      "output": {
+        "resource": {
+          "relative_path": "curl-distro.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/2000px-Ubuntu_logo.svg.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/2000px-Ubuntu_logo.svg.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/AppStorage.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/AppStorage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/PSicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/PSicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/PSicon2.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/PSicon2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/UbuntuInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/UbuntuInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/UbuntuStore.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/UbuntuStore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/WindowsServer.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/WindowsServer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/architecture.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/architecture.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/bash.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/bash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/bashShellInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/bashShellInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/bash_logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/bash_logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/distro.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/distro.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/linux-on-wsl.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/linux-on-wsl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/ls.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/ls.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/new-user.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/new-user.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/server-appx-expand.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/server-appx-expand.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/server-bash-install.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/server-bash-install.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/server-cowsay.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/server-cowsay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/start-launch.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/start-launch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/start-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/start-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/store-launch.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/store-launch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/store.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/store.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/system.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/system.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/ubuntu-logo112.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/ubuntu-logo112.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/updateAndSecurity.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/updateAndSecurity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "media/windowsFeatures.png",
+      "output": {
+        "resource": {
+          "relative_path": "media/windowsFeatures.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/curl-distro.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/curl-distro.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/2000px-Ubuntu_logo.svg.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/2000px-Ubuntu_logo.svg.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/AppStorage.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/AppStorage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/PSicon.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/PSicon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/PSicon2.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/PSicon2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/UbuntuInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/UbuntuInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/UbuntuStore.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/UbuntuStore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/WindowsServer.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/WindowsServer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/architecture.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/architecture.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/bash.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/bash.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/bashShellInstall.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/bashShellInstall.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/bash_logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/bash_logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/distro.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/distro.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/linux-on-wsl.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/linux-on-wsl.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/ls.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/ls.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/new-user.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/new-user.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/server-appx-expand.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/server-appx-expand.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/server-bash-install.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/server-bash-install.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/server-cowsay.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/server-cowsay.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/start-launch.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/start-launch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/start-menu.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/start-menu.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/store-launch.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/store-launch.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/store.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/store.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/system.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/system.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/ubuntu-logo112.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/ubuntu-logo112.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/updateAndSecurity.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/updateAndSecurity.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "wsl/media/windowsFeatures.png",
+      "output": {
+        "resource": {
+          "relative_path": "wsl/media/windowsFeatures.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
